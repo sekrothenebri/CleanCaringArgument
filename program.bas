@@ -2,7 +2,7 @@
 PRINT "Thanks for using Clean Caring Argument OS!"
  PRINT "NOTICE: This program wants you to see its code, open its code or open its github page. https://github.com/sekrothenebri/CleanCaringArgument/blob/master/program.bas"
 1020 INPUT "This OS is protected by OSPASSWORD. If you dont know this, check the code. ;) -Sekro (or bypass this.) > "; OSPASSWORD
-1030 IF OSPASSWORD="InsomniaGang" THEN GOTO 1050 ELSE GOTO 1040
+1030 IF OSPASSWORD="HIDDEN because its not released." THEN GOTO 1050 ELSE GOTO 1040
 1040 PRINT "Well.. You failed... Good job."
 GOTO 1020
 1050 PRINT "Nice you got it."
